@@ -1,0 +1,15 @@
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+/home/bess/dotNetBootcamp/projeto/bin/Debug/net6.0/projeto
+/home/bess/dotNetBootcamp/projeto/bin/Debug/net6.0/projeto.deps.json
+/home/bess/dotNetBootcamp/projeto/bin/Debug/net6.0/projeto.runtimeconfig.json
+/home/bess/dotNetBootcamp/projeto/bin/Debug/net6.0/projeto.dll
+/home/bess/dotNetBootcamp/projeto/bin/Debug/net6.0/projeto.pdb
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.dll
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/refint/projeto.dll
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.pdb
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
+/home/bess/dotNetBootcamp/projeto/obj/Debug/net6.0/ref/projeto.dll
